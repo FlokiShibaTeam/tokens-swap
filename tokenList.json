@@ -20,21 +20,12 @@
       "logoURI": "https://avatars.githubusercontent.com/u/86533022?s=200&v=4"
     },
     {
-      "name": "FLAN Token",
-      "symbol": "FLAN",
-      "address": "0x2f93519dffae7e07cc82b0d31ec1bb33811f918d",
-      "chainId": 56,
-      "decimals": 18,
-      "position": 2,
-      "logoURI": "https://avatars.githubusercontent.com/u/85615971?v=4"
-    },
-    {
       "name": "KWD Token",
       "symbol": "KWD",
       "address": "0x735436f172c647911a1ea425c56b3d4b2fc20a90",
       "chainId": 56,
       "decimals": 18,
-      "position": 3,
+      "position": 2,
       "logoURI": "https://raw.githubusercontent.com/KiwiDefi/LOGO/main/KIWI%20DEFI%20LOGO-02.png"
     },
     {
@@ -43,17 +34,8 @@
       "address": "0xdBaAa36B347d56b77Ce0e36f050fCeEBbF9fbc38",
       "chainId": 56,
       "decimals": 18,
-      "position": 4,
+      "position": 3,
       "logoURI": "https://github.com/Speednodenetwork/Logo/blob/main/SpeedNode_500x500.png?raw=true"
-    },
-    {
-      "name": "CRO Token",
-      "symbol": "CRO",
-      "address": "0x21f34acc878d93f0ac83c898eee895207f919386",
-      "chainId": 56,
-      "decimals": 18,
-      "position": 4,
-      "logoURI": "https://avatars.githubusercontent.com/u/77773410?s=200&v=4"
     },
     {
       "name": "HORA Os",
@@ -61,7 +43,7 @@
       "address": "0xa6fd7b5c9eee30309b00b65436a284e2053251e5",
       "chainId": 56,
       "decimals": 18,
-      "position": 5,
+      "position": 4,
       "logoURI": "https://raw.githubusercontent.com/HoraOS/media/main/LOGO%20HORA%20OS.png"
     },
     {
@@ -70,7 +52,7 @@
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "chainId": 56,
       "decimals": 18,
-      "position": 7,
+      "position": 5,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x55d398326f99059ff775485246999027b3197955.png"
     },
     {
@@ -79,7 +61,7 @@
       "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
       "chainId": 56,
       "decimals": 18,
-      "position": 8,
+      "position": 6,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
     },
     {
@@ -88,6 +70,7 @@
       "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
       "chainId": 56,
       "decimals": 18,
+      "position": 7,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
     },
     {
@@ -96,7 +79,7 @@
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "chainId": 56,
       "decimals": 18,
-      "position": 9,
+      "position": 8,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
     },
     {
@@ -105,7 +88,7 @@
       "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
       "chainId": 56,
       "decimals": 18,
-      "position": 10,
+      "position": 9,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
     },
     {
@@ -114,7 +97,7 @@
       "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
       "chainId": 56,
       "decimals": 18,
-      "position": 11,
+      "position": 10,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
     },
     {
