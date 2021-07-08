@@ -20,33 +20,6 @@
       "logoURI": "https://avatars.githubusercontent.com/u/86533022?s=200&v=4"
     },
     {
-      "name": "KWD Token",
-      "symbol": "KWD",
-      "address": "0x735436f172c647911a1ea425c56b3d4b2fc20a90",
-      "chainId": 56,
-      "decimals": 18,
-      "position": 2,
-      "logoURI": "https://raw.githubusercontent.com/KiwiDefi/LOGO/main/KIWI%20DEFI%20LOGO-02.png"
-    },
-    {
-      "name": "SPE Token",
-      "symbol": "SPE",
-      "address": "0xdBaAa36B347d56b77Ce0e36f050fCeEBbF9fbc38",
-      "chainId": 56,
-      "decimals": 18,
-      "position": 3,
-      "logoURI": "https://github.com/Speednodenetwork/Logo/blob/main/SpeedNode_500x500.png?raw=true"
-    },
-    {
-      "name": "HORA Os",
-      "symbol": "HORA",
-      "address": "0xa6fd7b5c9eee30309b00b65436a284e2053251e5",
-      "chainId": 56,
-      "decimals": 18,
-      "position": 4,
-      "logoURI": "https://raw.githubusercontent.com/HoraOS/media/main/LOGO%20HORA%20OS.png"
-    },
-    {
       "name": "Tether USD",
       "symbol": "USDT",
       "address": "0x55d398326f99059ff775485246999027b3197955",
